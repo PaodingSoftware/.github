@@ -1,5 +1,9 @@
 # 庖丁解牛
 浏览器内核扩展框架
+
+## Chrome switches, features, Blink features, settings, and preferences
+[https://paodingsoftware.github.io/chrome-features/](https://paodingsoftware.github.io/chrome-features/)
+
 ## 应用案例
 [PDF划词翻译和笔记工具](https://github.com/PaodingSoftware/Samples/releases/latest)
 
